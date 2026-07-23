@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zunder%20-%20%C3%81ngel%20Mart%C3%ADnez&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Zunder+·+Ángel+Martínez;Computer+Engineering;Machine+Learning+%26+Deep+Learning)
 
 ## About me
 
@@ -61,7 +61,7 @@ Automatic classification of galaxies into ten morphological categories using the
 ## Contact
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) -->
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](angelmz2014@gmail.com)
 
 ---
 
