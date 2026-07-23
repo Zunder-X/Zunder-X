@@ -1,4 +1,4 @@
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Zunder+·+Ángel+Martínez;Computer+Engineering;Machine+Learning+%26+Deep+Learning)
+![Header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=200&text=Zunder%20-%20%C3%81ngel%20Mart%C3%ADnez&fontSize=40&fontColor=fff&animation=blinking)
 
 ## About me
 
