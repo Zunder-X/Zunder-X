@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ángel%20Martínez%20Zambrana&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ángel%20Martínez&fontSize=40&fontColor=fff&animation=fadeIn)
 
 ## About me
 
