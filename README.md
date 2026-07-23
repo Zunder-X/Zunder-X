@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=6,11,20&height=200&text=Zunder%20-%20%C3%81ngel%20Mart%C3%ADnez&fontSize=40&fontColor=fff&animation=blinking)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=Zunder%20-%20%C3%81ngel%20Mart%C3%ADnez&fontSize=40&fontColor=fff&animation=scaleIn)
 
 ## About me
 
