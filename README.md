@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ángel%20Martínez&fontSize=40&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zunder%20-%20%C3%81ngel%20Mart%C3%ADnez&fontSize=40&fontColor=fff&animation=fadeIn)
 
 ## About me
 
-Computer Engineering graduate from the University of Huelva (2026), with a focus on machine learning, deep learning and computer vision. My final thesis explored the automatic classification of galaxy morphologies using convolutional neural networks — comparing custom architectures against pretrained models with progressive fine-tuning.
+Computer Engineering (in process) from the University of Huelva (2026), with a focus on machine learning, deep learning and computer vision. My final thesis explored the automatic classification of galaxy morphologies using convolutional neural networks — comparing custom architectures against pretrained models with progressive fine-tuning.
 
 Currently looking for new challenges where I can keep learning and applying what I know.
 
@@ -13,7 +13,11 @@ Currently looking for new challenges where I can keep learning and applying what
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Machine learning & data**
 
@@ -30,6 +34,7 @@ Currently looking for new challenges where I can keep learning and applying what
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -55,7 +60,7 @@ Automatic classification of galaxies into ten morphological categories using the
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) -->
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
 ---
